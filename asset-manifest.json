@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dark-to-light-page/static/css/main.48f2dd54.css",
+    "main.js": "/dark-to-light-page/static/js/main.c56e0116.js",
+    "index.html": "/dark-to-light-page/index.html",
+    "main.48f2dd54.css.map": "/dark-to-light-page/static/css/main.48f2dd54.css.map",
+    "main.c56e0116.js.map": "/dark-to-light-page/static/js/main.c56e0116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f2dd54.css",
+    "static/js/main.c56e0116.js"
+  ]
+}
